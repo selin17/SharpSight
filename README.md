@@ -43,5 +43,3 @@ The experiments show that blur increases MSE values and decreases PSNR and Lapla
 - Deep learning based blur classification
 - Larger dataset testing
 
-## Authors
-Selin Keklik
