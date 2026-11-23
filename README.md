@@ -1,4 +1,4 @@
-# Automated-Blur-Detection-and-Sharpness-Assessment-Using-Spatial-and-Frequency-Domain-Analysis
+# Automated Blur Detection and Sharpness Assessment Using Spatial and Frequency Domain Analysis
 
 ## Overview
 This project detects image blur and evaluates image sharpness using spatial and frequency domain analysis techniques.
